@@ -1,0 +1,4 @@
+name = "Tiffany Tang"
+SID = "0123456789"
+email = "tiffany.tang@berkeley.edu"
+github_name = "tiffanymtang"
